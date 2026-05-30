@@ -1,20 +1,87 @@
-# Calculadora JS
+Calculadora Simples
 
-Projeto de calculadora feito com HTML, CSS e JavaScript.
+Uma calculadora desenvolvida com HTML, CSS e JavaScript, capaz de realizar as quatro operações matemáticas básicas: soma, subtração, multiplicação e divisão.
 
-## Funções
-- soma
-- subtração
-- multiplicação
-- divisão
+Funcionalidades
 
-## Tecnologias
-- HTML
-- CSS
+- Soma de dois números
+- Subtração de dois números
+- Multiplicação de dois números
+- Divisão de dois números
+- Validação de campos vazios
+- Tratamento de divisão por zero
+- Limpeza automática dos campos após o cálculo
+- Retorno automático do foco para o primeiro campo
+- Interface responsiva e organizada
+
+Tecnologias Utilizadas
+
+- HTML5
+- CSS3
 - JavaScript
 
-## Objetivo
-Projeto feito para praticar lógica e DOM.
+Estrutura do Projeto
 
-## Autor
-Isaac
+calculadora/
+├── index.html
+├── style.css
+└── script.js
+
+Como Utilizar
+
+1. Abra o arquivo "index.html" em um navegador.
+2. Digite os dois valores desejados.
+3. Clique na operação matemática desejada:
+   - "+" Soma
+   - "-" Subtração
+   - "×" Multiplicação
+   - "÷" Divisão
+4. O resultado será exibido na tela.
+
+Conceitos Praticados
+
+Durante o desenvolvimento deste projeto foram utilizados conceitos fundamentais de desenvolvimento web, incluindo:
+
+HTML
+
+- Estrutura básica de páginas
+- Inputs
+- Botões
+- Classes e IDs
+- Organização semântica
+
+CSS
+
+- Flexbox
+- CSS Grid
+- Box Shadow
+- Border Radius
+- Pseudo-classes (":focus" e ":active")
+- Transições ("transition")
+- Estilização de formulários
+
+JavaScript
+
+- Funções
+- Parâmetros
+- Condicionais ("if" e "else")
+- Manipulação do DOM
+- Eventos ("onclick")
+- Arrays
+- Desestruturação
+- Conversão de tipos com "Number()"
+- Validação de dados
+- Uso de "return"
+
+Aprendizados
+
+Este projeto foi desenvolvido com o objetivo de praticar os fundamentos do desenvolvimento front-end e consolidar conhecimentos de HTML, CSS e JavaScript através da construção de uma aplicação funcional.
+
+Interface 
+
+![1000182671](https://github.com/user-attachments/assets/9dc67007-3b67-4919-a4f5-3a8c6763e5f2)
+
+
+Autor
+
+Isaac Goyana
