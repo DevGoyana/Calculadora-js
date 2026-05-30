@@ -1,8 +1,8 @@
-•Calculadora Simples
+# Calculadora Simples
 
 Uma calculadora desenvolvida com HTML, CSS e JavaScript, capaz de realizar as quatro operações matemáticas básicas: soma, subtração, multiplicação e divisão.
 
-Preview:
+# Preview:
 
 
 <img width="1020" height="2080" alt="1000182671" src="https://github.com/user-attachments/assets/7b4692bc-fd7c-48cd-a256-bba51d2264a9" />
@@ -10,7 +10,7 @@ Preview:
 
 
 
-Funcionalidades:
+# Funcionalidades:
 
 - Soma de dois números
 - Subtração de dois números
@@ -22,20 +22,20 @@ Funcionalidades:
 - Retorno automático do foco para o primeiro campo
 - Interface responsiva e organizada
 
-Tecnologias Utilizadas
+# Tecnologias Utilizadas
 
 - HTML5
 - CSS3
 - JavaScript
 
-Estrutura do Projeto
+# Estrutura do Projeto
 
 calculadora/
 ├── index.html
 ├── style.css
 └── script.js
 
-Como Utilizar:
+# Como Utilizar:
 
 1. Abra o arquivo "index.html" em um navegador.
 2. Digite os dois valores desejados.
@@ -46,7 +46,7 @@ Como Utilizar:
    - "÷" Divisão
 4. O resultado será exibido na tela.
 
-Conceitos Praticados:
+# Conceitos Praticados:
 
 Durante o desenvolvimento deste projeto foram utilizados conceitos fundamentais de desenvolvimento web, incluindo:
 
@@ -81,10 +81,10 @@ JavaScript
 - Validação de dados
 - Uso de "return"
 
-Aprendizados:
+# Aprendizados:
 
 Este projeto foi desenvolvido com o objetivo de praticar os fundamentos do desenvolvimento front-end e consolidar conhecimentos de HTML, CSS e JavaScript através da construção de uma aplicação funcional.
 
-Autor:
+# Autor:
 
 Isaac Goyana
